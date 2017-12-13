@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3cc15d7b9d64149a09fdb31da24751, type: 3}
+  m_Name: SettingsVkSDK
+  m_EditorClassIdentifier: 
+  appId: 6277370
+  viewerId: 141735095
+  sid: 4edf01741cdb2f360d2f78ee517e381d8e52f244059e00ec211803d885688d69d1fc00a38a58f64ded8ac
+  secret: d93e8d1c57
